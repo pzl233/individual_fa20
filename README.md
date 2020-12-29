@@ -1,6 +1,6 @@
 # Final score: 25/25
 
-# COGS 108 - Final Project (Individual)
+# COGS 108 (Data Science in practice) - Final Project (Individual)
 
 ## Project Overview 
 
